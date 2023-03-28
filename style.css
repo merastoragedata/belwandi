@@ -260,3 +260,15 @@ ul {
         margin-bottom: 30px;
     }
 }
+@media(max-width:760px){
+    .footer-col{
+        width:50%;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width:414px){
+    .footer-col{
+        width:50%;
+        margin-bottom: 30px;
+    }
+}
