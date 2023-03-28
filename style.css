@@ -41,6 +41,7 @@ body{
 }
 .logo{
     width: 10 0px;
+    padding:10px 0;
     cursor:pointer;
 }
 .navbar ul li {
